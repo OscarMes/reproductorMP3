@@ -21,7 +21,7 @@ class ClsBoton:
 
 
 #mi clase para la ventana tkinter
-class ClsConsola:
+class ClsConsola:   
     def __init__(self):
         self.ventana = Tk()
         #desactivo el maximizar
